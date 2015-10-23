@@ -1,5 +1,5 @@
 {
-  "name": "oiatsiuk/Cherry-1",
+  "name": "oiatsiuk/cherry-1",
   "description": "Cherry",
   "type": "magento2-module",
   "version": "1.0.1",
@@ -14,7 +14,7 @@
     "map": [
       [
         "*",
-        "Oiatsiuk/Cherry1"
+        "Oiatsiuk/cherry1"
       ]
     ]
   }
